@@ -1,0 +1,9 @@
+# Ignore large files
+*.pt
+*.avi
+*.mp4
+runs/
+venv/
+models/
+output_videos/
+input_videos/
